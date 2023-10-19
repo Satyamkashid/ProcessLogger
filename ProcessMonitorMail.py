@@ -100,7 +100,6 @@ def ProcessLog(log_dir = "Marvellous"):
     send_email(log_path)
 
 def main():
-    print("------Marvellous Infosystem by Piyush Khairnar------")
 
     print("Application name :"+argv[0])
 
