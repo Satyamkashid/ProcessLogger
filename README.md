@@ -1,1 +1,2 @@
 # ProcessLogger
+This application is developed in python. This Project automate process log activity. In this project we create log file with the current time and store information about all the running Processes as its name , PID , memory usage. Our automation script executes periodically depends on the time specified by the user using schedular of python.After periodic execution it sends the log file to the specified email address
